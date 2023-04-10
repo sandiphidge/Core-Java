@@ -1,6 +1,8 @@
 package LearningDecisionControlStatements;
-//nested if-else
+
 import java.util.Scanner;
+
+//nested if-else
 
 class LoginSystem{
 	public static void loginCredential(String username,Scanner sc){

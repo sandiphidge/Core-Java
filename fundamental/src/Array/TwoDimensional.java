@@ -1,10 +1,8 @@
 package Array;
 
+import java.util.Scanner;
 
-
-	import java.util.Scanner;
-
-	public class TwoDimensional {
+public class TwoDimensional {
 
 		public static void main(String[] args) {
 			//declare an array

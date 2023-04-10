@@ -2,7 +2,7 @@ package Practice;
 
 import java.util.Scanner;
 
-public class BasicJava {
+public class SumOFBinary {
 
 	public static void main(String[] args) {
 		long b1,b2;
