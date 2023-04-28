@@ -11,8 +11,8 @@ public class DegreeToFahrenheit {
         System.out.print("Input Fahrenheit: ");
         double fahrenheit = input.nextDouble();
 
-        double  celsius =(( 5 *(fahrenheit - 32.0)) / 9.0);
-        System.out.println(fahrenheit + " degree Fahrenheit is equal to " + celsius + " in Celsius");
+        double  celcius =(( 5 *(fahrenheit - 32.0)) / 9.0);
+        System.out.println(fahrenheit + " degree Fahrenheit is equal to " + celcius + " in Celcius");
 
 	}
 
